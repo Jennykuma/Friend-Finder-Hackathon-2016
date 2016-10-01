@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.jennykuma.friendfinder">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Home"
+            android:label="Friend Finder">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Profile"
+            android:label="Profile"/>
+        <activity
+            android:name=".Search"
+            android:label="Search"/>
+        <activity
+            android:name=".MyProfile"
+            android:label="My Profile"/>
+        <activity
+            android:name=".Competitive"
+            android:label="Competitive Search Results"/>
+        <activity
+            android:name=".Casual"
+            android:label="Casual Search Results" />
+    </application>
+
+</manifest>
