@@ -1,6 +1,6 @@
 # Friend Finder Android App for Hackathon 2016
 
-An Android app developed in 72 hours for a Hitachi sponsored hackathon.
+An Android app developed in 48 hours for a Hitachi sponsored hackathon.
 
 ## Overview
 
