@@ -2,46 +2,32 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\Jennykuma\Desktop\Android Studio Projects\FriendFinder\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="53db48c71e7bd1e97e1240c0ecf1246350d94edf">
-        <dex dex="C:\Users\Jennykuma\Desktop\Android Studio Projects\FriendFinder\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_c827771b7d9459191da55caa2e0bd070982aef7b\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Jennykuma\Desktop\Android Studio Projects\FriendFinder\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
-        <dex dex="C:\Users\Jennykuma\Desktop\Android Studio Projects\FriendFinder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.1.1_45604fabd73b1c5d58838df9ddcae642ee9ea874\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Jennykuma\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
-        <dex dex="C:\Users\Jennykuma\Desktop\Android Studio Projects\FriendFinder\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.1_2e670cc44351aed1d770ef67ab5ffc6cc3159fe7\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Jennykuma\Desktop\Android Studio Projects\FriendFinder\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="9daf8e677cdd58f6cbf62083fcc34116c62e9411">
-        <dex dex="C:\Users\Jennykuma\Desktop\Android Studio Projects\FriendFinder\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_62fd7a668cc865860d9b55adbce19bdc6c6f0429\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Jennykuma\Desktop\Android Studio Projects\FriendFinder\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
-        jumboMode="true"
+        jar="C:\Users\Spencer\Desktop\Friend-Finder-Hackathon-2016\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
         revision="23.0.2"
         sha1="5c5699834e9722f1c288fea2de82725d078ba127">
-        <dex dex="C:\Users\Jennykuma\Desktop\Android Studio Projects\FriendFinder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.1.1_7142f85b0d6869aab63545dc91003750d8683aa1\classes.dex" />
+        <dex dex="C:\Users\Spencer\Desktop\Friend-Finder-Hackathon-2016\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_4982192c24bab750769fb8ba813f143c1921eb77.jar" />
     </item>
     <item
-        jar="C:\Users\Jennykuma\Desktop\Android Studio Projects\FriendFinder\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
-        jumboMode="true"
+        jar="C:\Users\Spencer\Desktop\Friend-Finder-Hackathon-2016\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
         revision="23.0.2"
         sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
-        <dex dex="C:\Users\Jennykuma\Desktop\Android Studio Projects\FriendFinder\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.1_ce1d8c1d14f434198169743c861c83d8a4a588db\classes.dex" />
+        <dex dex="C:\Users\Spencer\Desktop\Friend-Finder-Hackathon-2016\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_aa48b799949630b8b84d7a158ce5543d14e9a5c2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Spencer\Desktop\Friend-Finder-Hackathon-2016\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\Spencer\Desktop\Friend-Finder-Hackathon-2016\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_3c93cb19f4134e13454ca133844ce46075816ac1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Spencer\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\Spencer\Desktop\Friend-Finder-Hackathon-2016\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_053a46ec8cd3610831e534a20df37c447cece9ab.jar" />
     </item>
 
 </items>

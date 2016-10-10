@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FriendFinder</string>
+    <string name="PROFILE">profile.txt</string>
+    <string name="MAINDB">maindb.txt</string>
+</resources>
