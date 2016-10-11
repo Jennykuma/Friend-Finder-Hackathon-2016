@@ -20,7 +20,7 @@ Future additions to this app would include a comment system and a rating system.
 
 ### Demo (Press image to play video):
 
-[![ScreenShot](https://raw.githubusercontent.com/Jennykuma/Friend-Finder-Hackathon-2016/master/FriendFinder_Screenshot.png)](https://youtu.be/LKX10Bf1EWs)
+[![ScreenShot](https://github.com/Jennykuma/Friend-Finder-Hackathon-2016/blob/master/Screenshot_FF.png?raw=true)](https://youtu.be/LKX10Bf1EWs)
 
 ### Contributors:
 
